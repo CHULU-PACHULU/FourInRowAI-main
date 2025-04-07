@@ -1,0 +1,8 @@
+100
+Traceback (most recent call last):
+  File "d:\checkinfour\CheckFour\FourInRow\DQN_Trainer.py", line 80, in <module>
+    main()
+  File "d:\checkinfour\CheckFour\FourInRow\DQN_Trainer.py", line 73, in main
+    w,l,t = tester.test(path)
+            ^^^^^^^^^^^^^^^^^
+TypeError: Tester.test() takes 1 positional argument but 2 were given

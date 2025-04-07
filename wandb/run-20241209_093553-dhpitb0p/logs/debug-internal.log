@@ -1,0 +1,16 @@
+{"time":"2024-12-09T09:35:54.0065263+02:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-09T09:35:54.0065263+02:00","level":"INFO","msg":"created symlink","path":"D:\\checkinfour\\CheckFour\\FourInRow\\wandb\\run-20241209_093553-dhpitb0p\\logs\\debug-core.log"}
+{"time":"2024-12-09T09:35:54.1170959+02:00","level":"INFO","msg":"created new stream","id":"dhpitb0p"}
+{"time":"2024-12-09T09:35:54.1176261+02:00","level":"INFO","msg":"stream: started","id":"dhpitb0p"}
+{"time":"2024-12-09T09:35:54.1176261+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"dhpitb0p"}
+{"time":"2024-12-09T09:35:54.1176261+02:00","level":"INFO","msg":"handler: started","stream_id":"dhpitb0p"}
+{"time":"2024-12-09T09:35:54.1176261+02:00","level":"INFO","msg":"sender: started","stream_id":"dhpitb0p"}
+{"time":"2024-12-09T09:35:54.4297447+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-09T09:35:55.5981721+02:00","level":"INFO","msg":"stream: closing","id":"dhpitb0p"}
+{"time":"2024-12-09T09:35:55.5981721+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-09T09:35:55.5986873+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-09T09:35:56.9214637+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-09T09:35:57.1526935+02:00","level":"INFO","msg":"handler: closed","stream_id":"dhpitb0p"}
+{"time":"2024-12-09T09:35:57.1526935+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"dhpitb0p"}
+{"time":"2024-12-09T09:35:57.1526935+02:00","level":"INFO","msg":"sender: closed","stream_id":"dhpitb0p"}
+{"time":"2024-12-09T09:35:57.1638657+02:00","level":"INFO","msg":"stream: closed","id":"dhpitb0p"}

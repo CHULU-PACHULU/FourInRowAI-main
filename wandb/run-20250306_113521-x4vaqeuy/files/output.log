@@ -1,0 +1,14 @@
+Board shape before reshaping: torch.Size([7, 42])
+Traceback (most recent call last):
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Trainer_Opp.py", line 81, in <module>
+    main()
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Trainer_Opp.py", line 50, in main
+    after_action = player2.get_action(state=after_state)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Agent.py", line 53, in get_action
+    Q_values = self.DQN(expand_state_tensor, action_tensor)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Conv.py", line 84, in __call__
+    x = torch.cat((x, action), dim=1)  # Concatenate along the second dimension
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Tensors must have same number of dimensions: got 2 and 3

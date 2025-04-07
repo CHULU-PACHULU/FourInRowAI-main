@@ -1,0 +1,7 @@
+{"time":"2025-03-02T11:15:38.8170475+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.3","symlink path":"D:\\checkinfour\\CheckFour\\FourInRow\\wandb\\offline-run-20250302_111538-ze0s42ay\\logs\\debug-core.log"}
+{"time":"2025-03-02T11:15:39.3607863+02:00","level":"INFO","msg":"created new stream","id":"ze0s42ay"}
+{"time":"2025-03-02T11:15:39.3612962+02:00","level":"INFO","msg":"stream: started","id":"ze0s42ay"}
+{"time":"2025-03-02T11:15:39.3612962+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"ze0s42ay"}
+{"time":"2025-03-02T11:15:39.3607863+02:00","level":"INFO","msg":"handler: started","stream_id":"ze0s42ay"}
+{"time":"2025-03-02T11:15:39.3612962+02:00","level":"INFO","msg":"sender: started","stream_id":"ze0s42ay"}
+{"time":"2025-03-02T11:15:39.3977115+02:00","level":"INFO","msg":"Starting system monitor"}

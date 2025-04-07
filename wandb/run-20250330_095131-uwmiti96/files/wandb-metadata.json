@@ -1,0 +1,38 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.11.4",
+  "startedAt": "2025-03-30T06:51:31.938099Z",
+  "program": "d:\\checkinfour\\CheckFour\\FourInRow\\DQN_Trainer.py",
+  "codePath": "DQN_Trainer.py",
+  "email": "yoavnave9@gmail.com",
+  "root": "D:\\checkinfour\\CheckFour\\FourInRow",
+  "host": "yoavs_computer",
+  "executable": "c:\\Users\\yoavn\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+  "codePathLocal": "DQN_Trainer.py",
+  "cpu_count": 8,
+  "cpu_count_logical": 12,
+  "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "15393931264",
+      "used": "669483008"
+    }
+  },
+  "memory": {
+    "total": "16891633664"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 12
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "memoryTotal": "4294967296",
+      "cudaCores": 2048,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.2"
+}

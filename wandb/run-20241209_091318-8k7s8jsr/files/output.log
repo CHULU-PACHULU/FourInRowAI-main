@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "d:\checkinfour\CheckFour\FourInRow\DQN_Trainer.py", line 80, in <module>
+    main()
+  File "d:\checkinfour\CheckFour\FourInRow\DQN_Trainer.py", line 34, in main
+    tester = Tester(player1,player2)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Tester.__init__() missing 1 required positional argument: 'player2'

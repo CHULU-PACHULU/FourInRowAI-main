@@ -1,0 +1,17 @@
+100
+Traceback (most recent call last):
+  File "d:\checkinfour\CheckFour\FourInRow\DQN_Trainer.py", line 80, in <module>
+    main()
+  File "d:\checkinfour\CheckFour\FourInRow\DQN_Trainer.py", line 73, in main
+    w,l,t = tester.test(100)
+            ^^^^^^^^^^^^^^^^
+  File "d:\checkinfour\CheckFour\FourInRow\Tester.py", line 23, in test
+    action = player.get_action(state=state)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\checkinfour\CheckFour\FourInRow\Random_Agent.py", line 18, in get_action
+    if self.env.legal(self.env.state,action):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\checkinfour\CheckFour\FourInRow\Env.py", line 25, in legal
+    if state.end_of_game==0:
+       ^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'end_of_game'

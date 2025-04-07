@@ -1,0 +1,16 @@
+{"time":"2024-12-09T09:30:56.2854183+02:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-09T09:30:56.2854183+02:00","level":"INFO","msg":"created symlink","path":"D:\\checkinfour\\CheckFour\\FourInRow\\wandb\\run-20241209_093056-r2csqxv6\\logs\\debug-core.log"}
+{"time":"2024-12-09T09:30:56.393745+02:00","level":"INFO","msg":"created new stream","id":"r2csqxv6"}
+{"time":"2024-12-09T09:30:56.393745+02:00","level":"INFO","msg":"stream: started","id":"r2csqxv6"}
+{"time":"2024-12-09T09:30:56.393745+02:00","level":"INFO","msg":"handler: started","stream_id":"r2csqxv6"}
+{"time":"2024-12-09T09:30:56.393745+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"r2csqxv6"}
+{"time":"2024-12-09T09:30:56.393745+02:00","level":"INFO","msg":"sender: started","stream_id":"r2csqxv6"}
+{"time":"2024-12-09T09:30:56.7350336+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-09T09:30:58.2517377+02:00","level":"INFO","msg":"stream: closing","id":"r2csqxv6"}
+{"time":"2024-12-09T09:30:58.2517377+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-09T09:30:58.2517377+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-09T09:30:59.6151933+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-09T09:30:59.8426685+02:00","level":"INFO","msg":"handler: closed","stream_id":"r2csqxv6"}
+{"time":"2024-12-09T09:30:59.8426685+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"r2csqxv6"}
+{"time":"2024-12-09T09:30:59.8431934+02:00","level":"INFO","msg":"sender: closed","stream_id":"r2csqxv6"}
+{"time":"2024-12-09T09:30:59.8626654+02:00","level":"INFO","msg":"stream: closed","id":"r2csqxv6"}

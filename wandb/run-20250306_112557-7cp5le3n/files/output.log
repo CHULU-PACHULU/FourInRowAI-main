@@ -1,0 +1,12 @@
+Board shape before reshaping: torch.Size([7, 41])
+ERROR: The board part should have 42 elements, but it has 41.
+Traceback (most recent call last):
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Trainer.py", line 84, in <module>
+    main()
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Trainer.py", line 47, in main
+    action = player1.get_action(state, epoch=epoch)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Agent.py", line 54, in get_action
+    max_index = torch.argmax(Q_values)
+                ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: argmax(): argument 'input' (position 1) must be Tensor, not NoneType

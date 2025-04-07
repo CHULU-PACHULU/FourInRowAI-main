@@ -1,0 +1,25 @@
+Traceback (most recent call last):
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Trainer.py", line 84, in <module>
+    main()
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Trainer.py", line 47, in main
+    action = player1.get_action(state, epoch=epoch)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Agent.py", line 53, in get_action
+    Q_values = self.DQN(expand_state_tensor, action_tensor)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Conv.py", line 66, in __call__
+    return self.forward(state_action)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Conv.py", line 36, in forward
+    x = F.relu(self.conv1(x))  # Apply ReLU after each Conv layer
+               ^^^^^^^^^^^^^
+  File "c:\Users\Talmid\AppData\Local\Programs\Python\Python311\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Talmid\AppData\Local\Programs\Python\Python311\Lib\site-packages\torch\nn\modules\conv.py", line 463, in forward
+    return self._conv_forward(input, self.weight, self.bias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Talmid\AppData\Local\Programs\Python\Python311\Lib\site-packages\torch\nn\modules\conv.py", line 459, in _conv_forward
+    return F.conv2d(input, weight, bias, self.stride,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Expected 3D (unbatched) or 4D (batched) input to conv2d, but got input of size: [7, 43]

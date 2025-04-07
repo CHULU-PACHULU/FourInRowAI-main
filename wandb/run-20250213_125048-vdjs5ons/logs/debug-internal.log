@@ -1,0 +1,7 @@
+{"time":"2025-02-13T12:50:48.5262404+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"D:\\checkinfour\\CheckFour\\FourInRow\\wandb\\run-20250213_125048-vdjs5ons\\logs\\debug-core.log"}
+{"time":"2025-02-13T12:50:48.6342822+02:00","level":"INFO","msg":"created new stream","id":"vdjs5ons"}
+{"time":"2025-02-13T12:50:48.6342822+02:00","level":"INFO","msg":"stream: started","id":"vdjs5ons"}
+{"time":"2025-02-13T12:50:48.6342822+02:00","level":"INFO","msg":"handler: started","stream_id":"vdjs5ons"}
+{"time":"2025-02-13T12:50:48.6342822+02:00","level":"INFO","msg":"sender: started","stream_id":"vdjs5ons"}
+{"time":"2025-02-13T12:50:48.6342822+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"vdjs5ons"}
+{"time":"2025-02-13T12:50:48.9408016+02:00","level":"INFO","msg":"Starting system monitor"}

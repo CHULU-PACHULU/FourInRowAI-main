@@ -1,0 +1,8 @@
+29900
+Traceback (most recent call last):
+  File "d:\checkinfour\CheckFour\FourInRow\DQN_Trainer_Opp.py", line 81, in <module>
+    main()
+  File "d:\checkinfour\CheckFour\FourInRow\DQN_Trainer_Opp.py", line 78, in main
+    player1.save_param(path)
+    ^^^^^^^^^^^^^^^^^^
+AttributeError: 'Random_Agent' object has no attribute 'save_param'

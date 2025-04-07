@@ -1,0 +1,15 @@
+{"time":"2025-03-06T11:16:46.1451345+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"E:\\checkinfour\\CheckFour\\FourInRow\\wandb\\run-20250306_111646-fw9pmsg8\\logs\\debug-core.log"}
+{"time":"2025-03-06T11:16:46.2665568+02:00","level":"INFO","msg":"created new stream","id":"fw9pmsg8"}
+{"time":"2025-03-06T11:16:46.2665568+02:00","level":"INFO","msg":"stream: started","id":"fw9pmsg8"}
+{"time":"2025-03-06T11:16:46.2665568+02:00","level":"INFO","msg":"handler: started","stream_id":"fw9pmsg8"}
+{"time":"2025-03-06T11:16:46.2665568+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"fw9pmsg8"}
+{"time":"2025-03-06T11:16:46.2665568+02:00","level":"INFO","msg":"sender: started","stream_id":"fw9pmsg8"}
+{"time":"2025-03-06T11:16:46.680029+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T11:20:27.037427+02:00","level":"INFO","msg":"stream: closing","id":"fw9pmsg8"}
+{"time":"2025-03-06T11:20:27.037427+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T11:20:27.0474305+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T11:20:28.1919123+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T11:20:28.4571509+02:00","level":"INFO","msg":"handler: closed","stream_id":"fw9pmsg8"}
+{"time":"2025-03-06T11:20:28.4571509+02:00","level":"INFO","msg":"sender: closed","stream_id":"fw9pmsg8"}
+{"time":"2025-03-06T11:20:28.4571509+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"fw9pmsg8"}
+{"time":"2025-03-06T11:20:28.4761686+02:00","level":"INFO","msg":"stream: closed","id":"fw9pmsg8"}

@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "d:\checkinfour\CheckFour\FourInRow\DQN_Trainer_Opp.py", line 81, in <module>
+    main()
+  File "d:\checkinfour\CheckFour\FourInRow\DQN_Trainer_Opp.py", line 75, in main
+    wandb.log({"win": w, "loss": l, "tie":t, "loss":loss[0]})
+                                                    ~~~~^^^
+IndexError: invalid index of a 0-dim tensor. Use `tensor.item()` in Python or `tensor.item<T>()` in C++ to convert a 0-dim tensor to a number

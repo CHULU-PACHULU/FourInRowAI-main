@@ -1,0 +1,16 @@
+{"time":"2025-02-10T08:41:00.5189182+02:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-02-10T08:41:00.5189182+02:00","level":"INFO","msg":"created symlink","path":"D:\\checkinfour\\CheckFour\\FourInRow\\wandb\\run-20250210_084100-u1n1fkyy\\logs\\debug-core.log"}
+{"time":"2025-02-10T08:41:00.6329437+02:00","level":"INFO","msg":"created new stream","id":"u1n1fkyy"}
+{"time":"2025-02-10T08:41:00.633457+02:00","level":"INFO","msg":"stream: started","id":"u1n1fkyy"}
+{"time":"2025-02-10T08:41:00.633579+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"u1n1fkyy"}
+{"time":"2025-02-10T08:41:00.633579+02:00","level":"INFO","msg":"handler: started","stream_id":"u1n1fkyy"}
+{"time":"2025-02-10T08:41:00.633579+02:00","level":"INFO","msg":"sender: started","stream_id":"u1n1fkyy"}
+{"time":"2025-02-10T08:41:00.9482662+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-10T08:41:02.1609553+02:00","level":"INFO","msg":"stream: closing","id":"u1n1fkyy"}
+{"time":"2025-02-10T08:41:02.16147+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-10T08:41:02.1619752+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-10T08:41:02.8776528+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-10T08:41:03.0959193+02:00","level":"INFO","msg":"handler: closed","stream_id":"u1n1fkyy"}
+{"time":"2025-02-10T08:41:03.0959193+02:00","level":"INFO","msg":"sender: closed","stream_id":"u1n1fkyy"}
+{"time":"2025-02-10T08:41:03.0959193+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"u1n1fkyy"}
+{"time":"2025-02-10T08:41:03.1181191+02:00","level":"INFO","msg":"stream: closed","id":"u1n1fkyy"}

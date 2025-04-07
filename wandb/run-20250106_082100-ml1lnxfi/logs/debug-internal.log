@@ -1,0 +1,16 @@
+{"time":"2025-01-06T08:21:00.6789723+02:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-01-06T08:21:00.6794849+02:00","level":"INFO","msg":"created symlink","path":"D:\\checkinfour\\CheckFour\\FourInRow\\wandb\\run-20250106_082100-ml1lnxfi\\logs\\debug-core.log"}
+{"time":"2025-01-06T08:21:00.7930078+02:00","level":"INFO","msg":"created new stream","id":"ml1lnxfi"}
+{"time":"2025-01-06T08:21:00.7932738+02:00","level":"INFO","msg":"stream: started","id":"ml1lnxfi"}
+{"time":"2025-01-06T08:21:00.7932738+02:00","level":"INFO","msg":"handler: started","stream_id":"ml1lnxfi"}
+{"time":"2025-01-06T08:21:00.7932738+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"ml1lnxfi"}
+{"time":"2025-01-06T08:21:00.7932738+02:00","level":"INFO","msg":"sender: started","stream_id":"ml1lnxfi"}
+{"time":"2025-01-06T08:21:01.1268288+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-06T09:06:49.5091477+02:00","level":"INFO","msg":"stream: closing","id":"ml1lnxfi"}
+{"time":"2025-01-06T09:06:49.5091477+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-06T09:06:49.5097726+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-06T09:06:50.23079+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-06T09:06:50.4700586+02:00","level":"INFO","msg":"handler: closed","stream_id":"ml1lnxfi"}
+{"time":"2025-01-06T09:06:50.4700586+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ml1lnxfi"}
+{"time":"2025-01-06T09:06:50.4700586+02:00","level":"INFO","msg":"sender: closed","stream_id":"ml1lnxfi"}
+{"time":"2025-01-06T09:06:50.4885822+02:00","level":"INFO","msg":"stream: closed","id":"ml1lnxfi"}

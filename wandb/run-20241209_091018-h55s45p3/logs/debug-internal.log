@@ -1,0 +1,16 @@
+{"time":"2024-12-09T09:10:18.3328297+02:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-09T09:10:18.3328297+02:00","level":"INFO","msg":"created symlink","path":"D:\\checkinfour\\CheckFour\\FourInRow\\wandb\\run-20241209_091018-h55s45p3\\logs\\debug-core.log"}
+{"time":"2024-12-09T09:10:18.5387574+02:00","level":"INFO","msg":"created new stream","id":"h55s45p3"}
+{"time":"2024-12-09T09:10:18.5387574+02:00","level":"INFO","msg":"stream: started","id":"h55s45p3"}
+{"time":"2024-12-09T09:10:18.5387574+02:00","level":"INFO","msg":"handler: started","stream_id":"h55s45p3"}
+{"time":"2024-12-09T09:10:18.5392697+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"h55s45p3"}
+{"time":"2024-12-09T09:10:18.5392697+02:00","level":"INFO","msg":"sender: started","stream_id":"h55s45p3"}
+{"time":"2024-12-09T09:10:18.8549542+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-09T09:10:18.8892754+02:00","level":"INFO","msg":"stream: closing","id":"h55s45p3"}
+{"time":"2024-12-09T09:10:18.8995002+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-09T09:10:18.9010555+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-09T09:10:20.1804732+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-09T09:10:20.3989367+02:00","level":"INFO","msg":"handler: closed","stream_id":"h55s45p3"}
+{"time":"2024-12-09T09:10:20.3989367+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"h55s45p3"}
+{"time":"2024-12-09T09:10:20.3989367+02:00","level":"INFO","msg":"sender: closed","stream_id":"h55s45p3"}
+{"time":"2024-12-09T09:10:20.4206138+02:00","level":"INFO","msg":"stream: closed","id":"h55s45p3"}

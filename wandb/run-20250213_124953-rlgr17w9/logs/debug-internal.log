@@ -1,0 +1,7 @@
+{"time":"2025-02-13T12:49:54.3033311+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"D:\\checkinfour\\CheckFour\\FourInRow\\wandb\\run-20250213_124953-rlgr17w9\\logs\\debug-core.log"}
+{"time":"2025-02-13T12:49:54.412101+02:00","level":"INFO","msg":"created new stream","id":"rlgr17w9"}
+{"time":"2025-02-13T12:49:54.412101+02:00","level":"INFO","msg":"stream: started","id":"rlgr17w9"}
+{"time":"2025-02-13T12:49:54.412101+02:00","level":"INFO","msg":"handler: started","stream_id":"rlgr17w9"}
+{"time":"2025-02-13T12:49:54.412101+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"rlgr17w9"}
+{"time":"2025-02-13T12:49:54.412101+02:00","level":"INFO","msg":"sender: started","stream_id":"rlgr17w9"}
+{"time":"2025-02-13T12:49:55.2533696+02:00","level":"INFO","msg":"Starting system monitor"}

@@ -1,0 +1,32 @@
+Board shape before reshaping: torch.Size([7, 41])
+Traceback (most recent call last):
+  File "c:\Users\Talmid\AppData\Local\Programs\Python\Python311\Lib\runpy.py", line 198, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Talmid\AppData\Local\Programs\Python\Python311\Lib\runpy.py", line 88, in _run_code
+    exec(code, run_globals)
+  File "c:\Users\Talmid\.vscode\extensions\ms-python.debugpy-2025.4.0-win32-x64\bundled\libs\debugpy\launcher/../..\debugpy\__main__.py", line 71, in <module>
+    cli.main()
+  File "c:\Users\Talmid\.vscode\extensions\ms-python.debugpy-2025.4.0-win32-x64\bundled\libs\debugpy\launcher/../..\debugpy/..\debugpy\server\cli.py", line 501, in main
+    run()
+  File "c:\Users\Talmid\.vscode\extensions\ms-python.debugpy-2025.4.0-win32-x64\bundled\libs\debugpy\launcher/../..\debugpy/..\debugpy\server\cli.py", line 351, in run_file
+    runpy.run_path(target, run_name="__main__")
+  File "c:\Users\Talmid\.vscode\extensions\ms-python.debugpy-2025.4.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_runpy.py", line 310, in run_path
+    return _run_module_code(code, init_globals, run_name, pkg_name=pkg_name, script_name=fname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Talmid\.vscode\extensions\ms-python.debugpy-2025.4.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_runpy.py", line 127, in _run_module_code
+    _run_code(code, mod_globals, init_globals, mod_name, mod_spec, pkg_name, script_name)
+  File "c:\Users\Talmid\.vscode\extensions\ms-python.debugpy-2025.4.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_runpy.py", line 118, in _run_code
+    exec(code, run_globals)
+  File "E:\checkinfour\CheckFour\FourInRow\DQN_Trainer.py", line 84, in <module>
+    main()
+  File "E:\checkinfour\CheckFour\FourInRow\DQN_Trainer.py", line 47, in main
+    action = player1.get_action(state, epoch=epoch)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\checkinfour\CheckFour\FourInRow\DQN_Agent.py", line 53, in get_action
+    Q_values = self.DQN(expand_state_tensor, action_tensor)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\checkinfour\CheckFour\FourInRow\DQN_Conv.py", line 77, in __call__
+    board = board.view(batch_size, 1, 6, 7)  # Reshape the board into shape (batch_size, 1, 6, 7)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: shape '[7, 1, 6, 7]' is invalid for input of size 287

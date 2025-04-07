@@ -1,0 +1,7 @@
+{"time":"2025-02-13T12:30:41.287705+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"D:\\checkinfour\\CheckFour\\FourInRow\\wandb\\run-20250213_123040-tf52cz02\\logs\\debug-core.log"}
+{"time":"2025-02-13T12:30:41.4007307+02:00","level":"INFO","msg":"created new stream","id":"tf52cz02"}
+{"time":"2025-02-13T12:30:41.4012437+02:00","level":"INFO","msg":"stream: started","id":"tf52cz02"}
+{"time":"2025-02-13T12:30:41.4012437+02:00","level":"INFO","msg":"handler: started","stream_id":"tf52cz02"}
+{"time":"2025-02-13T12:30:41.4013131+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"tf52cz02"}
+{"time":"2025-02-13T12:30:41.4013131+02:00","level":"INFO","msg":"sender: started","stream_id":"tf52cz02"}
+{"time":"2025-02-13T12:30:41.7482862+02:00","level":"INFO","msg":"Starting system monitor"}

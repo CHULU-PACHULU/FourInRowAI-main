@@ -1,0 +1,14 @@
+Board shape before reshaping: torch.Size([7, 41])
+Traceback (most recent call last):
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Trainer.py", line 84, in <module>
+    main()
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Trainer.py", line 47, in main
+    action = player1.get_action(state, epoch=epoch)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Agent.py", line 53, in get_action
+    Q_values = self.DQN(expand_state_tensor, action_tensor)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Conv.py", line 77, in __call__
+    board = board.view(batch_size, 1, 6, 7)  # Reshape the board into shape (batch_size, 1, 6, 7)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: shape '[7, 1, 6, 7]' is invalid for input of size 287

@@ -1,0 +1,31 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "CPython 3.11.5",
+  "startedAt": "2025-02-10T06:41:20.961892Z",
+  "program": "d:\\checkinfour\\CheckFour\\FourInRow\\DQN_Trainer_Opp.py",
+  "codePath": "DQN_Trainer_Opp.py",
+  "git": {
+    "commit": "18f50153770f65a176ced771578a219941a6f4cf"
+  },
+  "email": "yoavnave9@gmail.com",
+  "root": "D:\\checkinfour\\CheckFour\\FourInRow",
+  "host": "DESKTOP-5SLDEF6",
+  "username": "user",
+  "executable": "c:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+  "codePathLocal": "DQN_Trainer_Opp.py",
+  "cpu_count": 12,
+  "cpu_count_logical": 20,
+  "disk": {
+    "/": {
+      "total": "15393931264",
+      "used": "490504192"
+    }
+  },
+  "memory": {
+    "total": "16845500416"
+  },
+  "cpu": {
+    "count": 12,
+    "countLogical": 20
+  }
+}

@@ -1,0 +1,9 @@
+{"time":"2024-12-23T08:33:12.6015147+02:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-23T08:33:12.6015963+02:00","level":"INFO","msg":"created symlink","path":"D:\\checkinfour\\CheckFour\\FourInRow\\wandb\\run-20241223_083312-6gk62070\\logs\\debug-core.log"}
+{"time":"2024-12-23T08:33:12.712316+02:00","level":"INFO","msg":"created new stream","id":"6gk62070"}
+{"time":"2024-12-23T08:33:12.712316+02:00","level":"INFO","msg":"stream: started","id":"6gk62070"}
+{"time":"2024-12-23T08:33:12.712316+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"6gk62070"}
+{"time":"2024-12-23T08:33:12.712316+02:00","level":"INFO","msg":"handler: started","stream_id":"6gk62070"}
+{"time":"2024-12-23T08:33:12.712316+02:00","level":"INFO","msg":"sender: started","stream_id":"6gk62070"}
+{"time":"2024-12-23T08:33:13.0196723+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-23T08:33:40.0200824+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/yoavnave-/CheckFour/6gk62070/file_stream\": read tcp 192.168.247.93:50820->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}

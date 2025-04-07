@@ -1,0 +1,16 @@
+{"time":"2025-02-10T08:41:21.1024434+02:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-02-10T08:41:21.1024434+02:00","level":"INFO","msg":"created symlink","path":"D:\\checkinfour\\CheckFour\\FourInRow\\wandb\\run-20250210_084120-x2wpo1iq\\logs\\debug-core.log"}
+{"time":"2025-02-10T08:41:21.2214165+02:00","level":"INFO","msg":"created new stream","id":"x2wpo1iq"}
+{"time":"2025-02-10T08:41:21.2214165+02:00","level":"INFO","msg":"stream: started","id":"x2wpo1iq"}
+{"time":"2025-02-10T08:41:21.2214165+02:00","level":"INFO","msg":"handler: started","stream_id":"x2wpo1iq"}
+{"time":"2025-02-10T08:41:21.2214165+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"x2wpo1iq"}
+{"time":"2025-02-10T08:41:21.2219241+02:00","level":"INFO","msg":"sender: started","stream_id":"x2wpo1iq"}
+{"time":"2025-02-10T08:41:21.6380652+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-10T09:21:43.7365388+02:00","level":"INFO","msg":"stream: closing","id":"x2wpo1iq"}
+{"time":"2025-02-10T09:21:43.7365388+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-10T09:21:43.7370546+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-10T09:21:44.4815954+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-10T09:21:44.7067033+02:00","level":"INFO","msg":"handler: closed","stream_id":"x2wpo1iq"}
+{"time":"2025-02-10T09:21:44.7067033+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"x2wpo1iq"}
+{"time":"2025-02-10T09:21:44.7067033+02:00","level":"INFO","msg":"sender: closed","stream_id":"x2wpo1iq"}
+{"time":"2025-02-10T09:21:44.7322108+02:00","level":"INFO","msg":"stream: closed","id":"x2wpo1iq"}

@@ -1,0 +1,23 @@
+Board shape before reshaping: torch.Size([7, 42])
+Traceback (most recent call last):
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Trainer.py", line 84, in <module>
+    main()
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Trainer.py", line 47, in main
+    action = player1.get_action(state, epoch=epoch)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Agent.py", line 53, in get_action
+    Q_values = self.DQN(expand_state_tensor, action_tensor)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Conv.py", line 85, in __call__
+    x = self.forward(board)
+        ^^^^^^^^^^^^^^^^^^^
+  File "e:\checkinfour\CheckFour\FourInRow\DQN_Conv.py", line 45, in forward
+    x = F.relu(self.fc1(x))  # Feed the flattened output and action
+               ^^^^^^^^^^^
+  File "c:\Users\Talmid\AppData\Local\Programs\Python\Python311\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Talmid\AppData\Local\Programs\Python\Python311\Lib\site-packages\torch\nn\modules\linear.py", line 114, in forward
+    return F.linear(input, self.weight, self.bias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: mat1 and mat2 shapes cannot be multiplied (7x5376 and 5377x128)

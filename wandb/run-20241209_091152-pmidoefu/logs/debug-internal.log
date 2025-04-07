@@ -1,0 +1,16 @@
+{"time":"2024-12-09T09:11:52.0846236+02:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-09T09:11:52.0846236+02:00","level":"INFO","msg":"created symlink","path":"D:\\checkinfour\\CheckFour\\FourInRow\\wandb\\run-20241209_091152-pmidoefu\\logs\\debug-core.log"}
+{"time":"2024-12-09T09:11:52.195653+02:00","level":"INFO","msg":"created new stream","id":"pmidoefu"}
+{"time":"2024-12-09T09:11:52.195653+02:00","level":"INFO","msg":"stream: started","id":"pmidoefu"}
+{"time":"2024-12-09T09:11:52.195653+02:00","level":"INFO","msg":"handler: started","stream_id":"pmidoefu"}
+{"time":"2024-12-09T09:11:52.195653+02:00","level":"INFO","msg":"sender: started","stream_id":"pmidoefu"}
+{"time":"2024-12-09T09:11:52.195653+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"pmidoefu"}
+{"time":"2024-12-09T09:11:52.5026516+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-09T09:11:52.5515065+02:00","level":"INFO","msg":"stream: closing","id":"pmidoefu"}
+{"time":"2024-12-09T09:11:52.5535701+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-09T09:11:52.5546235+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-09T09:11:53.9980427+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-09T09:11:54.2326622+02:00","level":"INFO","msg":"handler: closed","stream_id":"pmidoefu"}
+{"time":"2024-12-09T09:11:54.2326622+02:00","level":"INFO","msg":"sender: closed","stream_id":"pmidoefu"}
+{"time":"2024-12-09T09:11:54.2326622+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"pmidoefu"}
+{"time":"2024-12-09T09:11:54.2437039+02:00","level":"INFO","msg":"stream: closed","id":"pmidoefu"}

@@ -1,0 +1,15 @@
+{"time":"2025-03-06T11:05:03.4678202+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"E:\\checkinfour\\CheckFour\\FourInRow\\wandb\\run-20250306_110503-lb4iezoj\\logs\\debug-core.log"}
+{"time":"2025-03-06T11:05:03.5851082+02:00","level":"INFO","msg":"created new stream","id":"lb4iezoj"}
+{"time":"2025-03-06T11:05:03.5851082+02:00","level":"INFO","msg":"stream: started","id":"lb4iezoj"}
+{"time":"2025-03-06T11:05:03.5851082+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"lb4iezoj"}
+{"time":"2025-03-06T11:05:03.5851082+02:00","level":"INFO","msg":"handler: started","stream_id":"lb4iezoj"}
+{"time":"2025-03-06T11:05:03.5856552+02:00","level":"INFO","msg":"sender: started","stream_id":"lb4iezoj"}
+{"time":"2025-03-06T11:05:04.1459345+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T11:05:04.5022811+02:00","level":"INFO","msg":"stream: closing","id":"lb4iezoj"}
+{"time":"2025-03-06T11:05:04.5022811+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T11:05:04.5028782+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T11:05:06.24767+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T11:05:06.5566824+02:00","level":"INFO","msg":"handler: closed","stream_id":"lb4iezoj"}
+{"time":"2025-03-06T11:05:06.5566824+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"lb4iezoj"}
+{"time":"2025-03-06T11:05:06.5566824+02:00","level":"INFO","msg":"sender: closed","stream_id":"lb4iezoj"}
+{"time":"2025-03-06T11:05:06.5872217+02:00","level":"INFO","msg":"stream: closed","id":"lb4iezoj"}

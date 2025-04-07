@@ -1,0 +1,4 @@
+"Data\DQN_PARAM_1K.pth" - 1000 epochs, c= 300, batch = 64, learning_rate = 0.1, w-843 l-157 d-0
+"Data\DQN_PARAM_5K.pth" - 5000 epochs, c= 300, batch = 64, learning_rate = 0.1, w-891 l-109 d-0
+"Data\DQN_PARAM_30K.pth" - 30000 epochs, c= 500, batch = 64, learning_rate = 0.1, w-971 l-29 d-0
+"Data\DQN_PARAM_100K.pth" - 100000 epochs, c= 500, batch = 64, learning_rate = 0.1, w-867 l-133 d-0

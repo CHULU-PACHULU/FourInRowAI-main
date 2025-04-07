@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "d:\checkinfour\CheckFour\FourInRow\DQN_Trainer_Opp.py", line 81, in <module>
+    main()
+  File "d:\checkinfour\CheckFour\FourInRow\DQN_Trainer_Opp.py", line 46, in main
+    after_state, reward = env.next_state(state, action)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\checkinfour\CheckFour\FourInRow\Env.py", line 33, in next_state
+    next_state.board[action,self.action_to_height(state,action)] = state.player
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\checkinfour\CheckFour\FourInRow\Env.py", line 19, in action_to_height
+    while i<5 and state.board[action,i+1]==0:
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
